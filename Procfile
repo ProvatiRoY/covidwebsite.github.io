@@ -1,0 +1,1 @@
+worker: heroku create myapp --buildpack https://github.com/ProvatiRoY/covidwebsite.github.io/corana%20virus.html
